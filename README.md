@@ -10,7 +10,8 @@ I'm always looking for the ways to optimize models, explore new architectures, a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nvquang021&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nvquang021&theme=dark&hide_border=false)<br/>
-
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvquang021&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nvquang021&theme=dark&hide_border=false) |
+|---|---|
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nvquang021&icon=2&color=0)](https://visitcount.itsvg.in)
